@@ -13,7 +13,7 @@ params:
     logo_img: /images/logo-main-256.png
     title: Pulsoid Blog
   layout_style: grid
-  palette: green
+  palette: black
 menu:
   main:
     - identifier: Pricing
