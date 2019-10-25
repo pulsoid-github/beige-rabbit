@@ -7,8 +7,6 @@ layout: post
 ---
 Nowadays social video platforms become a very popular way to communicate with people and share your interests. There are millions of broadcasters who want to be unique and to attract more people to watch their LIVE videos. In our opinion, there are two great ways to do your stream better for viewers: create quality content and make your broadcast more interactive. Of course, if you want to become popular you need to develop in both ways. And to help streamers add some interactions to their LIVE videos we created Pulsoid.
 
-
-
 ![](/images/1_2bdwbopf5-gfmfjry81mhg.png)
 
 Pulsoid is a service, which allows you to add a heart rate widget to live video on Twitch, YouTube, Facebook Live, Mixer or any other video platform. Pulsoid is totally free and easy to use. You have an ability to change widget appearance so it will fit your stream better. Font, color, transparency and ECG animation can be changed in a Configuration section.
@@ -46,7 +44,5 @@ Create an account on pulsoid.net
 ![](/images/0_rpedjxy365mqhqbr.png)
 
 2. Download the mobile application for Android or iOS and log in.
-
-
 
 ![](/images/1_cfopc4ksvzw6yi3pfmuqcw.png)
