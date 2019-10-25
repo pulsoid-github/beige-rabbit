@@ -14,5 +14,10 @@ params:
     title: Pulsoid Blog
   layout_style: grid
   palette: green
+menu:
+  main:
+    - identifier: Pricing
+      name: Pricing2
+      url: 'https://pulsoid.net/pricing?from=blog'
 disableKinds:
   - RSS
