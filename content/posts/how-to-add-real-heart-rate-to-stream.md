@@ -46,3 +46,91 @@ Create an account on pulsoid.net
 2. Download the mobile application for Android or iOS and log in.
 
 ![](/images/1_cfopc4ksvzw6yi3pfmuqcw.png)
+
+3. Put your heart rate monitor on and choose it in the application
+
+**NOTE**: Your Bluetooth must be turned on to find devices and measure heart rate, BUT you do not have to pair before using the app.
+
+Follow “Pulsoid does not work? Troubleshooting” if you can’t see your monitor.
+
+![](/images/1_xef8btzuhxrdlfatmras_w.png)
+
+4. Open Configuration page on pulsoid.net
+
+There are two parts: ‘My widgets’ and ‘Marketplace’. Configure any of widgets you have added by default or add more from Marketplace.
+
+![](/images/1_jrvmkrszvo63akutby3ecg.png)
+
+![](/images/1__cf0vvp_nbzpkilib0xa_w.png)
+
+5.1 Click ‘Configure’ next to some widget and change available settings. Note, each widget has the unique name, so you can have two or more settings of the same widget(for different games or layouts).
+
+![](/images/1_apjmslqlyou6subx4dmnbg.png)
+
+5.2. Copy the first widget’s URL and paste into the Browser Source in streaming software such as OBS Studio, Streamlabs OBS, Bebo, XSplit, etc.
+
+![](/images/1_b2sspg4kna40qrq71ywskq.png)
+
+5.3. You can also use window capture option, use the Launch button to open the window with the widget
+
+![](/images/1_rkoav1va7wylklzobfqylw.png)
+
+**NOTE**: Background color should be used as chroma key for software that does not support browser source plugin, in a case of browser source plugin the background color is ignored and background becomes transparent.
+
+6. The BPM widget has ranges(1&2) for colors and transparency settings based on data. You can also change the Font of your numbers(3), all Google Fonts are supported. Do not forget to Save(4) your changes
+
+![](/images/1_qd9yz88sttkx0isd-pj2-g.png)
+
+7. You can also use the ECG animation, that has the color and thickness settings.
+
+![](/images/1_g7coglb0hjd-dut-ftacaa.png)
+
+8. Explore the Marketplace to find all widgets that are available (updating)
+
+![](/images/1_b0_1ptcdklln-edgcmtwoa.gif)
+
+9. Check your stream with heart rate if everything works well. Contact us if not. Follow “Pulsoid does not work? Troubleshooting” if you have any issues.
+
+## **Future plans:**
+
+Since we have more and more users we are trying to become better service and offer more features for streamers. There are some planned things:
+
+\- More widgets depended on your heart rate.
+
+\- Analytics for more platforms.
+
+\- Your suggestions. If you have a great idea contact us!
+
+## **DONE:**
+
+\- Images widget with ranges as a part of BRO plan
+
+\- Calories widget.
+
+\- Export to CSV as a part of BRO plan
+
+\- Text allignment.
+
+\- Analytics for users (Twitch and YouTube). Find best clips based on heart rate.
+
+\- Pusloid app in Streamlabs OBS. More
+
+\- Sound widget for BRO plan
+
+
+
+[BRO plan](https://pulsoid.net/pricing?from=blog) for more features❤️
+
+
+
+
+
+Twitter: https://twitter.com/plsoid
+
+Discord: https://goo.gl/TTBw58 
+
+App for Android: https://goo.gl/z11qA7     
+
+App for iOS: https://goo.gl/iwL7Tk     
+
+Help: support@pulsoid.net
