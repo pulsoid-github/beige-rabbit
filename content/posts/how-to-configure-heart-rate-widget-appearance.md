@@ -1,6 +1,7 @@
 ---
 title: How To Configure Heart Rate Widget Appearance
 date: 2019-10-16T08:35:54.563Z
+thumb_img_path: /images/1_exqgy2vjr4sixlklfb4qkw.png
 layout: post
 ---
 Pulsoid Heart Rate Widget for Twitch, Mixer, YouTube Gaming was made for streamers to add their Live Heart Rate Data to Stream.
