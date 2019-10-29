@@ -1,6 +1,6 @@
 ---
 title: How To Add Real Heart Rate To Stream
-date: 2019-10-25T13:01:06.948Z
+date: 2019-10-10T13:01:06.948Z
 thumb_img_path: /images/1_47bchcejgbsobedmp6qogg.png
 content_img_path: /images/1_2bdwbopf5-gfmfjry81mhg.png
 layout: post
