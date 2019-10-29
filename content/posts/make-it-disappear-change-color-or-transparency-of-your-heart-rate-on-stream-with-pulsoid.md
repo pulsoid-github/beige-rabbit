@@ -3,6 +3,7 @@ title: >-
   Make it disappear! Change color or transparency of your heart rate on stream
   with Pulsoid.
 date: 2019-10-29T09:35:54.563Z
+thumb_img_path: /images/ezgif.com-video-to-gif-18-.gif
 layout: post
 ---
 We made widget appearance more flexible, now you can choose a different color and transparency for different heart rate zones. This feature will be useful for streamers who do not want to overload their screens while streaming, they can choose to not show heart rate in low range at all or make it more transparent. Also, it will be a good thing for streamers who want to emphasize heart rate data when it is bigger than usual, they can make it red from 100bpm and so on
