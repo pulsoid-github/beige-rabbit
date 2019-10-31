@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Blog
 sections:
   - actions: []
     component: intro.html
