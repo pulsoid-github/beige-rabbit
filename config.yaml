@@ -9,7 +9,7 @@ params:
         text: BRO plan
         url: 'https://pulsoid.net/pricing?from=blog'
   header:
-    has_nav: false
+    has_nav: true
     logo_img: /images/logo-main-256.png
     title: Pulsoid Blog
   layout_style: grid
