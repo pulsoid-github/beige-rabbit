@@ -1,9 +1,7 @@
 ---
 title: Home
 sections:
-  - actions:
-      - label: Learn More
-        url: /about
+  - actions: []
     component: intro.html
     content: >-
       Follow [Pulsoid(@plsoid) on Twitter](https://twitter.com/plsoid) for
